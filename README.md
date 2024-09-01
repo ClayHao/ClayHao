@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello There 👋
 
-<!--
-**ClayHao/ClayHao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Clay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClayHao&show_icons=true&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClayHao&size_weight=0.5&count_weight=0.5)
 
-Here are some ideas to get you started:
+## New here?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![skills](https://skillicons.dev/icons?i=androidstudio,vscode,idea,figma,github,git,gradle)
+
+![skills](https://skillicons.dev/icons?i=kotlin,lua,java) ~~WHERE'S MY COMPOSE?~~
+
+![skills](https://skillicons.dev/icons?i=pr,ae,au,ps,ai)
+
+## Mottos
+
+> A day is a miniature of eternity.
+
+> Stay hungry, stay foolish.
+
