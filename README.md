@@ -7,7 +7,7 @@
 
 ![skills](https://skillicons.dev/icons?i=androidstudio,vscode,idea,figma,github,git,gradle)
 
-![skills](https://skillicons.dev/icons?i=kotlin,lua,java) ~~WHERE'S MY COMPOSE?~~
+![skills](https://skillicons.dev/icons?i=kotlin,lua,java)
 
 ![skills](https://skillicons.dev/icons?i=pr,ae,au,ps,ai)
 
