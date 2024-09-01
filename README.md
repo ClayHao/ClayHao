@@ -1,7 +1,7 @@
 ## Hello There 👋
 
 ![Clay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClayHao&show_icons=true&theme=prussian)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClayHao&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClayHao&size_weight=0.5&count_weight=0.5&theme=prussian)
 
 ## New here?
 
