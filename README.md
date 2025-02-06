@@ -8,10 +8,3 @@
 ![skills](https://skillicons.dev/icons?i=kotlin,lua,java)
 
 ![skills](https://skillicons.dev/icons?i=pr,ae,au,ps,ai)
-
-## Mottos
-
-> A day is a miniature of eternity.
-
-> Stay hungry, stay foolish.
-
